@@ -16,9 +16,9 @@ The first Agent Foundations for AI Alignment workshop took place in October 2023
 * Casper Oesterheld (Carnegie Mellon University)
 * Abram Demski (Machine Intelligence Research Institute)
 * Vanessa Kosoy (Machine Intelligence Research Institute)
-* Michael Mandler (Royal Holloway, University of London)
 * John S Wentworth (Independent Researcher)
 * Nisan Stiennon (Encultured AI)
+* Michael Mandler (Royal Holloway, University of London)
 * Daniel Hermann (University of Groningen)
 * Gerard Joseph Rothfus (University of North Carolina, Chapel Hill)
 
