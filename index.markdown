@@ -8,7 +8,7 @@ layout: home
 ![The attendees of the workshop](/images/homepagepic.jpg)
 
 
-The first Agent Foundations for AI Alignment workshop took place in October 2023 at [Wytham Abbey](https://www.wythamabbey.org/), Oxford, UK. Researchers from academia, industry and the wider community came together over an interest in the fundamental nature of goal-directed agency, and its application to the problem of ensuring current and future AI systems are safe and beneficial.
+The first Agent Foundations for AI Alignment workshop took place in October 2023 at [Wytham Abbey](https://www.wythamabbey.org/), Oxford, UK. Researchers from academia, industry and the wider community came together over a shared interest in the fundamental nature of goal-directed agency, and its application to the problem of ensuring current and future AI systems are safe and beneficial.
 
 ## Speakers:
 
