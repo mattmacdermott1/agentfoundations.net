@@ -15,7 +15,7 @@ The first Agent Foundations for AI Alignment workshop took place in October 2023
 * Tom Everitt (Google DeepMind)
 * Casper Oesterheld (Carnegie Mellon University)
 * Abram Demski (Machine Intelligence Research Institute)
-* Vanessa Kosoy (Machine Intelligence Research Institute)
+* Vanessa Kosoy (Association for )
 * John S Wentworth (Independent Researcher)
 * Nisan Stiennon (Encultured AI)
 * Michael Mandler (Royal Holloway, University of London)
@@ -24,7 +24,7 @@ The first Agent Foundations for AI Alignment workshop took place in October 2023
 
 ## Organisers:
 * Alexander Gietelink Oldenziel (University College London) 
-* Nora Amman (PIBBS)
+* Nora Amman (PIBBSS)
 * Matt MacDermott (Imperial College London) 
 * Kaarel Hänni (Caltech/Cadenza Labs)
 
