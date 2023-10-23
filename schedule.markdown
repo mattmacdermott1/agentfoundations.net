@@ -15,7 +15,7 @@ The scheduled talks were a mixture of tutorials and original research.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0cTXuqIlT9I?si=LYVS5SqTET0vdmIe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[slides](/slides/Jeffrey-Bolker_slides.pdf)
+[notes](/slides/Jeffrey-Bolker_slides.pdf)
 
 # Regret Learners and Bounded Rational Inductive Agents (Caspar Oesterheld) 
 
@@ -36,3 +36,9 @@ The scheduled talks were a mixture of tutorials and original research.
 # Economics Without Preferences (Michael Mandler)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bjPa1YVxtI0?si=GpEF3fMp7RMEpx_2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# The Partition Assumption (Abram Demski)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfK-CTt3UPc?si=Q2_AK-bs23fZ4_89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[slides](/slides/partition_assumption_slides.pdf)
