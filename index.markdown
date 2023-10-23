@@ -13,13 +13,13 @@ The first Agent Foundations for AI Alignment workshop took place in October 2023
 ## Speakers:
 
 * Tom Everitt (Google DeepMind)
-* Casper Oesterheld (Carnegie Mellon University)
+* Caspar Oesterheld (Carnegie Mellon University)
 * Abram Demski (Machine Intelligence Research Institute)
 * Vanessa Kosoy (Association for Long Term Existence and Resilience)
 * John S Wentworth (Independent Researcher)
-* Nisan Stiennon (Encultured AI)
+* Nisan Stiennon (Theiss Research/Encultured AI)
 * Michael Mandler (Royal Holloway, University of London)
-* Daniel Hermann (University of Groningen)
+* Daniel Herrmann (University of Groningen)
 * Gerard Joseph Rothfus (University of North Carolina, Chapel Hill)
 
 ## Organisers:

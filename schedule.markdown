@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule and Recordings
+title: Recordings and Slides
 permalink: /schedule/
 ---
 
@@ -9,4 +9,30 @@ permalink: /schedule/
 
 ![The attendees of the workshop](/images/otherpagepic.jpg)
 
-# Coming soon!
+The scheduled talks were a mixture of tutorials and original research.
+
+# The Jeffrey-Bolker Decision Framework (Daniel Hermann and Gerard Joseph Rothfus)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0cTXuqIlT9I?si=LYVS5SqTET0vdmIe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[slides](/slides/Jeffrey-Bolker_slides.pdf)
+
+# Regret Learners and Bounded Rational Inductive Agents (Caspar Oesterheld) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3VfbRnfGcpc?si=S6FTDK7O_Tp1f0SJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[slides](/slides/regret_learners_slides.pdf)
+
+# Generalisation and Agency from a Causal Perspective (Tom Everitt)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jwZvtV5HvJw?si=ZHyVK_Br6Q1w7wdt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# An Introduction to Reinforcement Learning Theory (Vanessa Kosoy)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m95vOFITOWo?si=RcPtA4d1uqqffDgC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[slides](/slides/rl_theory_slides.pdf)
+
+# Economics Without Preferences (Michael Mandler)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bjPa1YVxtI0?si=GpEF3fMp7RMEpx_2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
