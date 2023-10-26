@@ -42,3 +42,7 @@ The scheduled talks were a mixture of tutorials and original research.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qfK-CTt3UPc?si=Q2_AK-bs23fZ4_89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [slides](/slides/partition_assumption_slides.pdf)
+
+# Natural Latent Variables (John S Wentworth) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0fwLfCgY9bw?si=I5iQ-vhnV8byezPR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
