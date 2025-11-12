@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agent Foundations 2023
+title: 2023
 permalink: /2023/
 ---
 
