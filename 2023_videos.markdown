@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recordings and Slides
+title: Recordings 2023
 permalink: /schedule/
 ---
 
