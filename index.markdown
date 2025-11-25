@@ -5,6 +5,8 @@
 layout: home
 ---
 
+![Carnegie Mellon University campus](/images/CMU.jpg)
+
 Agent Foundations 2026 will be a 5-day conference on fundamental mathematical research into agency. It will take place **March 2–6, 2026 at Carnegie Mellon University**, and will be the third conference in the Agent Foundations series.
 
 Topics covered will include:
@@ -16,4 +18,4 @@ Topics covered will include:
 - Bounded Optimality
 - Decision Theory
 
-**Apply:** [HERE] by [DATE]
+**Apply:** [Here](https://forms.gle/y96z33LGoeFUfaJz9) by February 2, 2026
