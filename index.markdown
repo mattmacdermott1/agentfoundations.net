@@ -15,4 +15,4 @@ Topics covered will include:
 - Bounded Optimality
 - Decision Theory
 
-**Apply:** [Here](https://forms.gle/y96z33LGoeFUfaJz9) by February 2, 2026
+**Apply:** [Here](https://forms.gle/y96z33LGoeFUfaJz9) by January 12, 2026
