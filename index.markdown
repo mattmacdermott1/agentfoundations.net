@@ -5,27 +5,14 @@
 layout: home
 ---
 
-![The attendees of the workshop](/images/homepagepic.jpg)
+![Carnegie Mellon University campus](/images/CMU.jpg)
 
+Agent Foundations 2026 will be a 5-day conference on fundamental mathematical research into agency. It will take place **March 2–6, 2026 at Carnegie Mellon University**, and will be the third conference in the Agent Foundations series. It is run by [Iliad](https://www.iliad.ac/).
 
-The first Agent Foundations for AI Alignment workshop took place in October 2023 at [Wytham Abbey](https://www.wythamabbey.org/), Oxford, UK. Researchers from academia, industry and the wider community came together over a shared interest in the fundamental nature of goal-directed agency, and its application to the problem of ensuring current and future AI systems are safe and beneficial.
+Topics covered will include:
+- Formalizing Boundaries
+- Logical Induction
+- Bounded Optimality
+- Decision Theory
 
-## Speakers:
-
-* Tom Everitt (Google DeepMind)
-* Caspar Oesterheld (Carnegie Mellon University)
-* Abram Demski (Machine Intelligence Research Institute)
-* Vanessa Kosoy (Association for Long Term Existence and Resilience)
-* John S Wentworth (Independent Researcher)
-* Nisan Stiennon (Theiss Research/Encultured AI)
-* Michael Mandler (Royal Holloway, University of London)
-* Daniel Herrmann (University of Groningen)
-* Gerard Joseph Rothfus (University of North Carolina, Chapel Hill)
-
-## Organisers:
-* Alexander Gietelink Oldenziel (University College London) 
-* Nora Amman (PIBBSS)
-* Matt MacDermott (Imperial College London) 
-* Kaarel Hänni (Caltech/Cadenza Labs)
-
-[Expression of interest/contact form](https://docs.google.com/forms/d/e/1FAIpQLSfNMcqdz8ltAjzgZxmH-XTpT4JfLl2QlivP-9EY7x-jIlvq7w/viewform?usp=sf_link)
+**Apply:** [**Here**](https://forms.gle/y96z33LGoeFUfaJz9) by January 12, 2026 at 11:59 pm AoE.

@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Agent Foundations for AI Alignment Workshop
+title: Agent Foundations 2026 at CMU
 email: 
 description: >-
  
@@ -37,6 +37,7 @@ github_username:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
