@@ -7,12 +7,14 @@ layout: home
 
 ![Carnegie Mellon University campus](/images/CMU.jpg)
 
-Agent Foundations 2026 will be a 5-day conference on fundamental mathematical research into agency. It will take place **March 2–6, 2026 at Carnegie Mellon University**, and will be the third conference in the Agent Foundations series. It is run by [Iliad](https://www.iliad.ac/).
+**Agent Foundations 2026** will be a 5-day conference on fundamental, mathematical research into agency. It will take place **March 2–6, 2026 at Carnegie Mellon University**, and will be the third conference of [Iliad's](https://www.iliad.ac/) Agent Foundations conference series.
 
 Topics covered will include:
-- Formalizing Boundaries
+- Decision Theory
+- Learning Theory
+- Abstractions and World Models
+- Causality
 - Logical Induction
 - Bounded Optimality
-- Decision Theory
 
 **Apply:** [**Here**](https://forms.gle/y96z33LGoeFUfaJz9) by January 12, 2026 at 11:59 pm AoE.
