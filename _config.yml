@@ -38,6 +38,9 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+header_pages:
+  - Agent_23.markdown
+  - Agent_25.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
